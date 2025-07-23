@@ -1,0 +1,101 @@
+product_name,quantity_sold,item_price,total_price
+Latte,3,60.00,180.00
+Americano,5,45.00,225.00
+Latte,2,60.00,120.00
+Green Tea,4,55.00,220.00
+Americano,1,45.00,45.00
+Latte,6,60.00,360.00
+Shiopan,2,35.00,70.00
+Latte,3,60.00,180.00
+Americano,5,45.00,225.00
+Green Tea,1,55.00,55.00
+Latte,4,60.00,240.00
+Americano,2,45.00,90.00
+Latte,5,60.00,300.00
+Green Tea,3,55.00,165.00
+Shiopan,6,35.00,210.00
+Americano,1,45.00,45.00
+Latte,4,60.00,240.00
+Latte,2,60.00,120.00
+Green Tea,5,55.00,275.00
+Americano,3,45.00,135.00
+Latte,1,60.00,60.00
+Shiopan,4,35.00,140.00
+Americano,6,45.00,270.00
+Green Tea,2,55.00,110.00
+Latte,5,60.00,300.00
+Americano,3,45.00,135.00
+Latte,1,60.00,60.00
+Green Tea,4,55.00,220.00
+Americano,2,45.00,90.00
+Shiopan,5,35.00,175.00
+Latte,6,60.00,360.00
+Green Tea,3,55.00,165.00
+Latte,1,60.00,60.00
+Americano,4,45.00,180.00
+Latte,5,60.00,300.00
+Americano,2,45.00,90.00
+Green Tea,6,55.00,330.00
+Latte,3,60.00,180.00
+Shiopan,1,35.00,35.00
+Americano,5,45.00,225.00
+Latte,2,60.00,120.00
+Green Tea,4,55.00,220.00
+Americano,1,45.00,45.00
+Latte,6,60.00,360.00
+Americano,3,45.00,135.00
+Green Tea,5,55.00,275.00
+Latte,2,60.00,120.00
+Shiopan,4,35.00,140.00
+Latte,1,60.00,60.00
+Americano,6,45.00,270.00
+Green Tea,2,55.00,110.00
+Latte,5,60.00,300.00
+Americano,3,45.00,135.00
+Latte,1,60.00,60.00
+Shiopan,5,35.00,175.00
+Green Tea,4,55.00,220.00
+Latte,2,60.00,120.00
+Americano,6,45.00,270.00
+Latte,3,60.00,180.00
+Green Tea,1,55.00,55.00
+Americano,4,45.00,180.00
+Latte,5,60.00,300.00
+Shiopan,2,35.00,70.00
+Green Tea,6,55.00,330.00
+Americano,1,45.00,45.00
+Latte,4,60.00,240.00
+Americano,3,45.00,135.00
+Latte,2,60.00,120.00
+Green Tea,5,55.00,275.00
+Shiopan,1,35.00,35.00
+Americano,6,45.00,270.00
+Latte,4,60.00,240.00
+Green Tea,2,55.00,110.00
+Americano,5,45.00,225.00
+Latte,1,60.00,60.00
+Shiopan,3,35.00,105.00
+Latte,6,60.00,360.00
+Green Tea,4,55.00,220.00
+Americano,2,45.00,90.00
+Latte,5,60.00,300.00
+Green Tea,1,55.00,55.00
+Americano,3,45.00,135.00
+Latte,6,60.00,360.00
+Shiopan,2,35.00,70.00
+Green Tea,5,55.00,275.00
+Americano,1,45.00,45.00
+Latte,4,60.00,240.00
+Shiopan,3,35.00,105.00
+Green Tea,6,55.00,330.00
+Americano,2,45.00,90.00
+Latte,5,60.00,300.00
+Americano,1,45.00,45.00
+Latte,4,60.00,240.00
+Green Tea,3,55.00,165.00
+Shiopan,6,35.00,210.00
+Americano,2,45.00,90.00
+Latte,5,60.00,300.00
+Latte,3,60.00,180.00
+Americano,5,45.00,225.00
+Shiopan,1,35.00,35.00
